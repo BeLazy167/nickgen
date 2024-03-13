@@ -11,7 +11,7 @@ To install this package, you can use pip:
 Here's an example of how to use the package:
 
 ```python
-from nickgen import generate_nick_name
+from nickgenfast import generate_nick_name
 
 # Generate a random name
 random_name = generate_nick_name()
