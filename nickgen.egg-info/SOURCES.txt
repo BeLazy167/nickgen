@@ -1,0 +1,10 @@
+LICENCE
+README.md
+setup.py
+nickgen/__init__.py
+nickgen/nickcreate.py
+nickgen.egg-info/PKG-INFO
+nickgen.egg-info/SOURCES.txt
+nickgen.egg-info/dependency_links.txt
+nickgen.egg-info/requires.txt
+nickgen.egg-info/top_level.txt
