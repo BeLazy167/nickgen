@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="nickgenfast",
-    version="0.0.1",
-    author="Your Name",
+    version="0.0.3",
+    author="Dhruv Khara",
     author_email="dhruvkhara167@gmail.com",
     description="A random nickname generator.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/your-username/your-package",
+    url="https://github.com/BeLazy167/nickgenfast",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -19,7 +19,5 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
-    install_requires=[
-        'random'
-    ],
+    
 )
